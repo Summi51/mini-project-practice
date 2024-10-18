@@ -55,6 +55,8 @@ Screenshots
 
 7. Favorite Pages
    <img width="918" alt="Screenshot 2024-10-18 at 10 58 26 PM" src="https://github.com/user-attachments/assets/1321b7c5-c2c5-405c-8d1c-d82e93964346">
+8. Not Authorised (user, not an Admin)
+   <img width="1177" alt="Screenshot 2024-10-18 at 11 25 08 PM" src="https://github.com/user-attachments/assets/db9a3e45-ff77-4ab3-848f-fc7eaec709bd">
 
 
 Local Storage

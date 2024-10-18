@@ -1,6 +1,6 @@
 # Store Management System
 
-This is a full-stack store management system that allows users to register, log in, and manage store items. The system supports role-based access control where admin users can add, update, or delete store items, while regular users can view them.
+This full-stack store management system allows users to register, log in, and manage store items. The system supports role-based access control, enabling admin users to access certain pages without logging in, while regular users must be authenticated to view specific pages.
 
 ## Prerequisites
 

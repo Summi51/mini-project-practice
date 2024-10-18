@@ -1,5 +1,8 @@
 # Store Management System
 
+## Link Frontend: https://dalocal-project-frontend.vercel.app/
+## Link Backend: https://dalocalprojectbackend.vercel.app/
+
 This full-stack store management system allows users to register, log in, and manage store items. The system supports role-based access control, enabling admin users to access certain pages without logging in, while regular users must be authenticated to view specific pages.
 
 ## Prerequisites

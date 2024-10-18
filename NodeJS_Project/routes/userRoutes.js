@@ -40,7 +40,7 @@ userRoutes.post('/login', async(req, res)=>{
    if(result){
    const token = jwt.sign({authorId: user._id, author: user.name},"storeData")
    console.log(token, "token")
-   res.status(200).send({msg:"User login Successfully",token:token , isAdmin:isAdmin} )
+   res.status(200).send({msg:"User login Successfully",token:token , isAdmin:user.isAdmin} )
    }else{
        res.status(400).send({msg:"User Not Login"})
    }

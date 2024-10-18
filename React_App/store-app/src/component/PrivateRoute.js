@@ -1,16 +1,19 @@
 import React from 'react';
-import { Route, Navigate } from 'react-router-dom';
+import { Navigate } from 'react-router-dom';
 
-const PrivateRoute = ({ element: Element }) => {
+const PrivateRoute = ({ children, isAdminRequired = false }) => {
   const token = localStorage.getItem('token');
+  const isAdmin = localStorage.getItem('isAdmin'); 
 
-  return (
-    <Route
-      render={() => {
-        return token ? Element : <Navigate to="/login" />;
-      }}
-    />
-  );
+  if (isAdminRequired && isAdmin == 'false') {
+    return <Navigate to="/not-authorized" />;
+  }
+
+  if (!token) {
+    return <Navigate to="/login" />;
+  }
+
+  return children;
 };
 
 export default PrivateRoute;

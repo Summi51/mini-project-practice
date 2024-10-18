@@ -48,8 +48,7 @@ Screenshots
 <img width="634" alt="Screenshot 2024-10-18 at 10 58 08 PM" src="https://github.com/user-attachments/assets/d6d905cd-4f58-42b4-ba12-e4777e6f343a">
 
 4. Store Page
-![Uploading Screenshot 2024-10-18 at 10.56.59 PM.png…]()
-
+<img width="1440" alt="Screenshot 2024-10-18 at 10 57 19 PM" src="https://github.com/user-attachments/assets/9b79b768-b81d-4cbc-8a98-8fa9e289c164">
 
 6. Card Page
    <img width="572" alt="Screenshot 2024-10-18 at 10 58 46 PM" src="https://github.com/user-attachments/assets/563c7909-360a-4dae-a762-7b0663f05ead">

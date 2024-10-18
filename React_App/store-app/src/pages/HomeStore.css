@@ -87,3 +87,97 @@ li:last-child {
 .logout-button:hover {
   background-color: #c82333; /* Darker red on hover */
 }
+
+.home-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  background-color: #f7f7f7;
+}
+
+.home-title {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.stores-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.store-card {
+  background-color: #fff;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 280px;
+  transition: transform 0.2s;
+}
+
+.store-card:hover {
+  transform: scale(1.05);
+}
+
+.store-card h2 {
+  font-size: 1.5rem;
+  color: #4a4a4a;
+}
+
+.store-card p {
+  color: #777;
+  margin-bottom: 15px;
+}
+
+.visit-store-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.visit-store-button:hover {
+  background-color: #45a049;
+}
+
+.page-buttons-container {
+  margin-top: 20px;
+}
+
+.custom-button {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.custom-button:hover {
+  background-color: #0056b3;
+}
+
+.logout-button {
+  background-color: #FF6347;
+}
+
+.logout-button:hover {
+  background-color: #e55347;
+}
+
+.store-button {
+  background-color: #28a745;
+}
+
+.store-button:hover {
+  background-color: #218838;
+}

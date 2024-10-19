@@ -59,6 +59,8 @@ Screenshots
 7. Favorite Pages
    <img width="918" alt="Screenshot 2024-10-18 at 10 58 26 PM" src="https://github.com/user-attachments/assets/1321b7c5-c2c5-405c-8d1c-d82e93964346">
 8. Not Authorised (user, not an Admin)
+   isAdmin (false)
+   <img width="721" alt="Screenshot 2024-10-19 at 10 47 44 AM" src="https://github.com/user-attachments/assets/541f8d1a-2647-418d-ad55-3e6af589e636">
    <img width="1177" alt="Screenshot 2024-10-18 at 11 25 08 PM" src="https://github.com/user-attachments/assets/db9a3e45-ff77-4ab3-848f-fc7eaec709bd">
 
 

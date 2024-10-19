@@ -43,6 +43,7 @@ Create Store Item: POST /stores/create (Admin Only)
 Screenshots
 1. Home page
    <img width="1182" alt="Screenshot 2024-10-18 at 10 56 12 PM" src="https://github.com/user-attachments/assets/f42f67b0-1ff8-434b-ad28-8fe7fb5cc15d">
+   <img width="1440" alt="Screenshot 2024-10-18 at 10 57 19 PM" src="https://github.com/user-attachments/assets/9b79b768-b81d-4cbc-8a98-8fa9e289c164">
 
 2. Register Page
    <img width="748" alt="Screenshot 2024-10-18 at 10 57 53 PM" src="https://github.com/user-attachments/assets/adf83765-2733-4e59-b265-ebb130e9e715">
@@ -51,13 +52,14 @@ Screenshots
 <img width="634" alt="Screenshot 2024-10-18 at 10 58 08 PM" src="https://github.com/user-attachments/assets/d6d905cd-4f58-42b4-ba12-e4777e6f343a">
 
 4. Store Page
-<img width="1440" alt="Screenshot 2024-10-18 at 10 57 19 PM" src="https://github.com/user-attachments/assets/9b79b768-b81d-4cbc-8a98-8fa9e289c164">
+<img width="1440" alt="Screenshot 2024-10-19 at 10 52 00 AM" src="https://github.com/user-attachments/assets/1a3062ef-47f4-4864-b29f-ff7927578de1">
 
 6. Card Page
    <img width="572" alt="Screenshot 2024-10-18 at 10 58 46 PM" src="https://github.com/user-attachments/assets/563c7909-360a-4dae-a762-7b0663f05ead">
 
 7. Favorite Pages
    <img width="918" alt="Screenshot 2024-10-18 at 10 58 26 PM" src="https://github.com/user-attachments/assets/1321b7c5-c2c5-405c-8d1c-d82e93964346">
+   
 8. Not Authorised (user, not an Admin)
    isAdmin (false)
    <img width="721" alt="Screenshot 2024-10-19 at 10 47 44 AM" src="https://github.com/user-attachments/assets/541f8d1a-2647-418d-ad55-3e6af589e636">
